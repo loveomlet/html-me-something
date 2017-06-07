@@ -8,6 +8,15 @@ p{
     margin: 10px;
 }
 article header h1{
-    color: blue;
-    background-color: silver
+    color: black;
+    
+}
+.yo{
+    font-size: 30;
+    font-family: Impact;
+    color:blue
+}
+#yoyo{
+    color:red;
+    font-size:60;
 }
