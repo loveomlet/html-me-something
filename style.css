@@ -5,5 +5,9 @@ img{
     padding-left:40px;
 } 
 p{
-    margin: 60px;
+    margin: 10px;
+}
+article header h1{
+    color: blue;
+    background-color: silver
 }
